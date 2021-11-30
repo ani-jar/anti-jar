@@ -1,15 +1,6 @@
  
 
-lolMiner
-Main
-Settings
-English
-English
-Русский
-Français
-lolMiner
- Mobile Menu
-Settings
+## Settings
 How to set up lolMiner
 1) Download the latest version of lolMiner
 To run mining on multiple computers, download and install the lolMiner application on all computers that will be used for mining.
