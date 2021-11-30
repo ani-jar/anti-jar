@@ -1,21 +1,4 @@
-Это версия страницы https://lolminer.nz/fr/parametre/ из кеша Google. Она представляет собой снимок страницы по состоянию на 23 ноя 2021 15:25:58 GMT. Текущая страница за прошедшее время могла измениться. Подробнее.
-Полная версияТекстовая версияПросмотреть исходный код
-Совет. Чтобы искать на странице, нажмите Ctrl+F или ⌘-F (для MacOS) и введите запрос в поле поиска.
-Skip to main navigationSkip to main contentSkip to footer
 
-Rechercher : 
-Search…
-  
-
-lolMiner
-Principale
-Paramètre
-Français
-English
-Русский
-Français
-lolMiner
- Mobile Menu
 Paramètre
 Comment configurer lolMiner
 1) Téléchargez la dernière version de lolMiner
