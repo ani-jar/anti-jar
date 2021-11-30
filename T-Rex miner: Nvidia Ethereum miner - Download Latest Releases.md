@@ -1,27 +1,31 @@
-Overview
+## Overview
+
+
 T-Rex is a versatile cryptocurrency mining software. It supports a variety of algorithms and we, as developers, are trying to do our best to make it as fast and as convenient to use as possible.
 
 Developer fee is 1% (2% for Octopus, Autolykos2, and their dual mining modes).
 
 Download T-Rex for Windows
 Download T-Rex for Linux
-JSON config file
+
+
+## JSON config file
 To start T-Rex with config file config.txt type in the console: t-rex -c config.txt. Use config_example file as a starting point to create your own config.
 If a parameter is set in the config file and also via cmd line, the latter takes precedence, for example: t-rex -c config.txt -w <worker_name_to_override_the_one_in_config_file>
 You can also use environment variables: simply put %YOUR_ENV_VAR% anywhere in your config file and it will get automatically substituted with the value of YOUR_ENV_VAR variable at run-time.
 
-Watchdog
+## Watchdog
 Watchdog is intended to observe miner state and restart T-Rex if it crashes or hangs for any reason. Also, watchdog can optionally perform auto updates if a newer version is available. We recommend using the watchdog to avoid any downtime in mining and make sure your GPUs are busy 24/7. If you do need to disable the watchdog, you can do so using --no-watchdog parameter.
 
-Antivirus alerts
+## Antivirus alerts
 In order to protect the miner from reverse engineering attacks, the binaries are packed using a third-party software which mangles the original machine code. As a result, some antivirus engines may detect certain signatures within the executable that are similar to those that real viruses protected by the same packer have. In any case, it is advisable not to use cryptocurrency miners on the computers where you store your sensitive data (wallets, passwords etc.).
 
-Tips
+## Tips
 In order to maximise the hashrate our software utilises all available GPU resources, so it is important that you review your overclock settings before you start mining. Our general recommendation is to start from GPU stock settings (no overclock, default power limit), and then after making sure it is stable, slowly increase your overclock to find the “sweet spot” where the miner performs at its best and still does not crash.
 
 HOW TO MINE ETHEREUM | WINDOWS | W/ T-REX 2020
 
-Supported Algorithm:
+## Supported Algorithm:
 On the right is a list of algorithms supported by the T-Rex mining program (miner). The program commission is shown for each of the algorithms. This commission usually does not exceed a few percent and is used by the developers of the miner to maintain and improve its work, as well as to add new functions. The commission is taken due to the fact that the program mines a short period of time (usually no more than a minute) every hour to the developer’s wallet.
 
 Algorithm	Fee %
